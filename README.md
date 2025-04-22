@@ -43,7 +43,7 @@ I am a passionate frontend developer dedicated to creating websites and web appl
       <h3 align="center">Festival Website</h3>
       <div align="center">
         <a href="https://github.com/Spinon64/FestivalesWeb" target="_blank">
-          <img src="https://v0.dev/placeholder.svg?height=200&width=300" alt="Project 1" width="100%"/>
+          <img src="https://github.com/Spinon64/Spinon64/blob/main/FestivalWebsite.png?height=200&width=300" alt="Project 1" width="100%"/>
         </a>
         <p>
           <a href="https://github.com/Spinon64/FestivalesWeb" target="_blank">
@@ -60,7 +60,7 @@ I am a passionate frontend developer dedicated to creating websites and web appl
       <h3 align="center">Weather App</h3>
       <div align="center">
         <a href="https://github.com/Spinon64/WeatherApp" target="_blank">
-          <img src="https://v0.dev/placeholder.svg?height=200&width=300" alt="Project 2" width="100%"/>
+          <img src="https://github.com/Spinon64/Spinon64/blob/main/weatherapp.png?height=200&width=300" alt="Project 2" width="100%"/>
         </a>
         <p>
           <a href="https://github.com/Spinon64/WeatherApp" target="_blank">
@@ -79,7 +79,7 @@ I am a passionate frontend developer dedicated to creating websites and web appl
       <h3 align="center">CIF AI Generator</h3>
       <div align="center">
         <a href="https://www.figma.com/community/file/1496587881311789534" target="_blank">
-          <img src="https://v0.dev/placeholder.svg?height=200&width=300" alt="Project 3" width="100%"/>
+          <img src="https://github.com/Spinon64/Spinon64/blob/main/CIFGenerator.png?height=200&width=300" alt="Project 3" width="100%"/>
         </a>
         <p>
           <a href="https://www.figma.com/community/file/1496587881311789534" target="_blank">
@@ -96,7 +96,7 @@ I am a passionate frontend developer dedicated to creating websites and web appl
       <h3 align="center">Split and eat</h3>
       <div align="center">
         <a href="https://github.com/Spinon64/splitNeat" target="_blank">
-          <img src="https://v0.dev/placeholder.svg?height=200&width=300" alt="Project 4" width="100%"/>
+          <img src="https://github.com/Spinon64/Spinon64/blob/main/splitneat.png?height=200&width=300" alt="Project 4" width="100%"/>
         </a>
         <p>
           <a href="https://github.com/Spinon64/splitNeat" target="_blank">
